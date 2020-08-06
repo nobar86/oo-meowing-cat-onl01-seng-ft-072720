@@ -3,3 +3,5 @@ class Cat
   
   
 end
+
+"is able to meow"
