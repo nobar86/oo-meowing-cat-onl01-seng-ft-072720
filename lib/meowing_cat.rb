@@ -5,4 +5,3 @@ class Cat
   end
 end
 
-maru.meow
