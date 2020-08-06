@@ -5,4 +5,4 @@ class Cat
   end
 end
 
-"is able to meow"
+maru.meow
